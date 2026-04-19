@@ -2,7 +2,7 @@
 
 ## Hi there 👋 , this information is created for batch57
 
-### Batch58 YouTube Videos :
+### Batch60 Session Recordings :
 
 ```
 https://www.youtube.com/playlist?list=PLPWyJYiAyYNtTzrVPCd960LeMjjhU4Cuz
