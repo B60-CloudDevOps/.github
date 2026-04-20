@@ -18,3 +18,11 @@ https://miro.com/app/board/uXjVGjmyhts=/?share_link_id=499814836453
 ```
 https://gitlab.com/thecloudcareers/opensource/-/blob/master/aws-account-creation/README.md
 ```
+
+
+### Lab Image
+
+```
+    DevOps-LabImage-RHEL9 ( N.Virginia )
+    ec2-user / DevOps321
+```
