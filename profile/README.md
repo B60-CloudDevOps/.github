@@ -1,6 +1,6 @@
 
 
-## Hi there 👋 , this information is created for batch57
+## Hi there 👋 , this information is created for batch60
 
 ### Batch60 Session Recordings :
 
